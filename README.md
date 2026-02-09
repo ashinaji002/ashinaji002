@@ -1,11 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=160&section=header&text=Ashin%20Aji&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ashin%20Aji&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <b>Web Developer</b> • BCA Student • Kerala, India
-</p>
+<p align="center"><b>Web Developer • BCA Student • Kerala, India</b></p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;Django+%7C+PHP+%7C+MySQL;Backend+Focused+Web+Developer" />
