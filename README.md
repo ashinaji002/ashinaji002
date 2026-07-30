@@ -95,7 +95,7 @@ I enjoy transforming ideas into production-ready solutions while continuously le
 
 ---
 
-## ⚡ GRIDAM
+## ⚡ Chargeundo
 
 Smart EV charging platform helping users charge cleaner and cheaper.
 
@@ -162,16 +162,20 @@ A personal portfolio showcasing projects, achievements, and technical expertise.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashinaji002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashinaji002&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashinaji002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashinaji002&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashinaji002&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashinaji002&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 # 🔥 GitHub Streak
