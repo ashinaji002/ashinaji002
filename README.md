@@ -1,116 +1,116 @@
-👋 Hi, I'm Ashin Aji
-
+<!-- Header Banner -->
 <p align="center">
-  <!-- Replace after creating your banner -->
-  <img src="assets/banner-dark.svg" alt="Ashin Aji Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ashin%20Aji&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Full-Stack Developer • AI Innovator • Open Source Enthusiast</h3>
+<p align="center"><b>Web Developer • BCA Student • Kerala, India</b></p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full-Stack+Developer+from+Kerala,+India;Turning+Ideas+into+Scalable+Software;Always+Learning.+Always+Building." />
-</p>
-
-<p align="center">
-  <a href="https://ashinaji.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"></a>
-  <a href="https://www.linkedin.com/in/ashinaji/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ashinaji02@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
-
-🚀 About Me
-
-Name       : Ashin Aji
-Location   : Kerala, India
-Education  : Bachelor of Computer Applications (BCA)
-Role       : Full-Stack Developer • AI Innovator • Open Source Enthusiast
-Focus      : AI • Full Stack • Cloud • Open Source
-Status     : Building • Learning • Shipping
-
-I enjoy building AI-powered applications and scalable web platforms with modern technologies including Next.js, React, Django, Supabase and Firebase.
-
-⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,html,css,react,nextjs,tailwind,django,nodejs,mysql,supabase,firebase,git,github,vscode,vercel,postman,figma" />
-</p>
-
-🚀 Featured Projects
-
-🚑 TriggerLens
-
-AI-powered multimodal recovery platform using Google Gemini.
-
-⚡ ChargeUndo
-
-Grid-aware EV charging platform.
-
-🤝 SpotHive
-
-AI-powered local community platform.
-
-🚌 RouteMate
-
-College Bus Management System (Django + MySQL).
-
-🏛 ArkTech
-
-Architecture Service Booking Platform.
-
-🌐 Portfolio
-
-https://ashinaji.vercel.app
-
-🏆 Achievements
-
-📄 Research Paper Published
-
-📜 Indian Patent Published
-
-🤖 Multiple AI & GenAI Projects
-
-🚀 Google Build with AI Participant
-
-💡 Active Open Source Learner
-
-📊 GitHub Analytics
-
-Recommended: Self-host github-readme-stats on Vercel for reliable cards.
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashinaji002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashinaji002&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;Django+%7C+PHP+%7C+MySQL;Backend+Focused+Web+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashinaji002&theme=tokyonight&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/ashinaji/"><img src="https://img.shields.io/badge/LinkedIn-ashinaji-blue?logo=linkedin"></a>
+  <a href="mailto:ashinaji02@gmail.com"><img src="https://img.shields.io/badge/Email-ashinaji02%40gmail.com-red?logo=gmail"></a>
+  <a href="https://ashinaji.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ashinaji.vercel.app-success"></a>
 </p>
+
+---
+
+## 👨‍💻 Professional Summary
+
+Web Developer with hands-on experience in designing and developing **database-driven web applications**.  
+Strong foundation in **backend development**, REST-style workflows, and responsive frontend design.  
+Experienced in translating real-world requirements into **scalable and maintainable systems**.
+
+---
+
+## 🛠 Technical Skills
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashinaji002&theme=tokyo-night&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,django,php,html,css,js,mysql,bootstrap,git,github,vscode" />
 </p>
 
-🐍 Contribution Snake
+**Backend:** Python (Django), PHP  
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+**Database:** MySQL  
+**APIs & Tools:** Maps API, Git, GitHub, VS Code  
 
-Configure the GitHub Action to generate these SVGs.
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashinaji002/ashinaji002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashinaji002/ashinaji002/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashinaji002/ashinaji002/output/github-contribution-grid-snake.svg">
-</picture>
+## 🚀 Projects
 
-📬 Connect With Me
+### 🚌 RouteMate — College Bus Management System  
+**Status:** In Development  
+
+**Overview:**  
+RouteMate is a web-based system designed to manage college transportation efficiently. It centralizes bus routes, schedules, and allocation to reduce manual coordination and improve operational clarity.
+
+**Key Features:**  
+- Bus and route management  
+- Student allocation to buses  
+- Location-based route visualization using Maps API  
+- Secure role-based access  
+
+**Tech Stack:**  
+Python, Django, HTML, CSS, JavaScript, MySQL, Maps API  
+
+---
+
+### 🏛️ ArkTech — Architecture Booking Platform  
+**Status:** Completed  
+
+**Overview:**  
+ArkTech is a service booking website that allows users to explore architectural services and place booking requests through a streamlined interface.
+
+**Key Features:**  
+- Service listing and booking workflow  
+- Admin-side booking management  
+- Responsive UI using Bootstrap  
+
+**Tech Stack:**  
+PHP, MySQL, Bootstrap  
+
+---
+
+### 🌐 Personal Portfolio Website  
+**Status:** Live  
+**URL:** https://ashinaji.vercel.app  
+
+**Overview:**  
+A personal portfolio website to showcase projects, technical skills, and professional information in a clean and accessible format.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript  
+
+---
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://ashinaji.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"></a>
-<a href="https://www.linkedin.com/in/ashinaji/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:ashinaji02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashinaji002&theme=github_dark" width="48%" />
 </p>
 
-👀 Profile Views
+
+---
+
+## 🎯 Professional Focus
+
+- Backend web development with Django  
+- Designing database-centric applications  
+- Writing clean, maintainable code  
+- Improving system performance and usability  
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/ashinaji/  
+- **Email:** ashinaji02@gmail.com  
+- **Portfolio:** https://ashinaji.vercel.app  
+
+---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashinaji002&label=Profile+Views&style=for-the-badge"/>
+  <i>Focused on building web systems that are practical, scalable, and reliable.</i>
 </p>
-
-"Great software isn't just built—it is thoughtfully designed, continuously improved, and created to solve real problems."
